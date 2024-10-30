@@ -6,9 +6,8 @@
 
 مرحباً بك في صفحة دعم تطبيق ALRADIO. نحن هنا لمساعدتك!
 
-### طرق التواصل
-- البريد الإلكتروني: support@alradio.app
-- تويتر: @alradio_app
+### طريقة التواصل
+- البريد الإلكتروني: projectspacenext@gmail.com
 
 ### الأسئلة الشائعة
 
@@ -35,9 +34,8 @@
 
 Welcome to ALRADIO support page. We're here to help!
 
-### Contact Methods
-- Email: support@alradio.app
-- Twitter: @alradio_app
+### Contact Method
+- Email: projectspacenext@gmail.com
 
 ### FAQ
 
